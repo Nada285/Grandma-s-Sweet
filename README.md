@@ -1,2 +1,2 @@
-# Grandma-s-Sweet
-Donats cakes and sweets .
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
